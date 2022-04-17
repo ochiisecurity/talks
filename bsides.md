@@ -7,6 +7,10 @@
 </br>
 <b>blog: osamucaaaa/ochiisecurity/cryptoroot</b>
 
+### mini currículo
+
+### resumo
+
 ## sumário
 
 - quem sou eu?
