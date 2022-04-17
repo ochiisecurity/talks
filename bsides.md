@@ -5,6 +5,10 @@
 #### github: @osamucaaaa
 #### blog: osamucaaaa/ochiisecurity/cryptoroot
 
-### sumário
+## sumário
 
+- quem sou eu?
+- colocar o título da palestra
+- github actions
+- pipeline
 
