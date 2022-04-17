@@ -1,9 +1,9 @@
 ## bsides es - palestra
 ### devsecops - pipeline ci/cd para gestão de vulnerabilidades em imagens docker utlizando o github actions.
 
-#### palestrante: samuel verneck
-#### github: @osamucaaaa
-#### blog: osamucaaaa/ochiisecurity/cryptoroot
+<b>palestrante: samuel verneck</b>
+<b>github: @osamucaaaa</b>
+<b>blog: osamucaaaa/ochiisecurity/cryptoroot</b>
 
 ## sumário
 
