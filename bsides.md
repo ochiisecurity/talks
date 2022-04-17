@@ -14,6 +14,9 @@
 - github actions
   - o que é
   -  como funciona
+- ci/cd
+  - o que é
+  -  como funciona
 - pipeline
   - o que é
   -  como funciona
