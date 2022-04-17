@@ -18,13 +18,13 @@
   - segue lá: @osamucaaaa
 - colocar o título da palestra
 - github actions
-  - o que é
-  -  como funciona
+  - o que é?
+  -  como funciona?
 - ci/cd
-  - o que é
-  -  como funciona
+  - o que é?
+  -  como funciona?
 - pipeline
-  - o que é
-  -  como funciona
+  - o que é?
+  -  como funciona?
 - exmplo prático
 
