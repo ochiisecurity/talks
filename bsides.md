@@ -14,6 +14,8 @@
 ## sumário
 
 - quem sou eu?
+  - me chamo samuel, prazer!
+  - segue lá: @osamucaaaa
 - colocar o título da palestra
 - github actions
   - o que é
