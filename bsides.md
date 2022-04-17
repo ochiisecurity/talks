@@ -2,7 +2,9 @@
 ### devsecops - pipeline ci/cd para gestão de vulnerabilidades em imagens docker utlizando o github actions.
 
 <b>palestrante: samuel verneck</b>
+</br>
 <b>github: @osamucaaaa</b>
+</br>
 <b>blog: osamucaaaa/ochiisecurity/cryptoroot</b>
 
 ## sumário
