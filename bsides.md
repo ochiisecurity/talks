@@ -12,5 +12,9 @@
 - quem sou eu?
 - colocar o título da palestra
 - github actions
+  - o que é
+  -  como funciona
 - pipeline
+  - o que é
+  -  como funciona
 
