@@ -10,6 +10,7 @@
 ### mini currículo
 
 ### resumo
+<p align="justify">trago uma abordagem que relaciona automação na detecção de vulnerabilidades e abertura de tickets, a partir do próprio repositório de código que hospeda os arquivos que mantém a imagem atualizada. Tudo isso através do uso do recurso github actions.</p>  
 
 ## sumário
 
