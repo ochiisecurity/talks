@@ -24,4 +24,5 @@
 - pipeline
   - o que é
   -  como funciona
+- exmplo prático
 
