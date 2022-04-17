@@ -8,6 +8,7 @@
 <b>blog: osamucaaaa/ochiisecurity/cryptoroot</b>
 
 ### mini currículo
+<p align="justify">me chamo samuel verneck, tenho 24 anos, sou casado, capixaba e atualmente moro em vila velha/es. atualmente atuo como devops e estou cursando ciência da computação.</p>
 
 ### resumo
 <p align="justify">trago uma abordagem que relaciona automação na detecção de vulnerabilidades e abertura de tickets, a partir do próprio repositório de código que hospeda os arquivos que mantém a imagem atualizada. Tudo isso através do uso do recurso github actions.</p>  
